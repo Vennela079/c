@@ -21,7 +21,7 @@ int main() {
       result += pow(remainder, n);
    }
 
-  
+
    if ((int)result == num)
     printf("%d is an Armstrong number.", num);
    else
